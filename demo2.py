@@ -22,7 +22,8 @@ class test:
     name="oronce"
     
     def getname(self):
-        print(self.name)
+        print(self.name) 
+        
         
         
 print(test().name)
